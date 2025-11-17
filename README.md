@@ -1,1 +1,2 @@
-# nowe-repozytorium
+strona z papuga
+i scrollowaniem ladnym
